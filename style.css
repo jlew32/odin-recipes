@@ -1,0 +1,23 @@
+body {
+    background-color: cadetblue;
+    font-family: monospace
+}
+
+h1 {
+    background-color: wheat;
+    color: blue;
+    text-align: center;
+}
+
+#rice {
+    background-color: wheat;
+}
+
+#pasta{
+    background-color: wheat;
+}
+
+#eggs{
+    background-color: wheat;
+
+}
